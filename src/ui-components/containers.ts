@@ -13,6 +13,6 @@ export const AppContainer = styled.div`
 
 export const ContentContainer = styled.div`
   height: 80vh;
-  width: calc(100% - 3em);
+  width: 80vh;
   background-color: ${ c.MOCKUP_BLUE };
 `
